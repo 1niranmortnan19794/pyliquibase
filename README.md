@@ -3,6 +3,9 @@
 ![Python package](https://github.com/memiiso/pyliquibase/workflows/Python%20package/badge.svg)
 
 # pyliquibase
+database 
+mysql
+sql
 
 Use [liquibase](http://www.liquibase.org/) with python. Java integration is done using Java Native Interface (JNI) using [pyjnius](https://github.com/kivy/pyjnius)
 
